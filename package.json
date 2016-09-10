@@ -1,0 +1,8 @@
+{
+  "name":"Node-Crawler",
+  "version":"1.0.0",
+  "description":"Practice node skills",
+  "private":true,
+  "main":"index.js"
+
+}
