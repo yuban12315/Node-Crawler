@@ -1,8 +1,15 @@
 {
-  "name":"Node-Crawler",
-  "version":"1.0.0",
-  "description":"Practice node skills",
-  "private":true,
-  "main":"index.js"
-
+  "name": "Node-Crawler",
+  "version": "1.0.0",
+  "description": "Practice node skills",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.0.1",
+    "cheerio": "^0.22.0",
+    "encoding": "^0.1.12",
+    "iconv-lite": "^0.4.13",
+    "superagent": "^2.2.0",
+    "superagent-charset": "^1.1.1"
+  }
 }
